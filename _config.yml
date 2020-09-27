@@ -1,19 +1,20 @@
 # Site settings
 title: Felippe F. Caso # site title
 description: >- # site description
-  A description will be written here, eventually.
+  I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
 lang: en-US # default lang
 timezone: America/Sao_Paulo # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Felippe F. Caso # author name
   bio: >- # tell to the world
-    A bio will be written here, eventually.
+    I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
   username: felippecaso # general username
   github: felippecaso # github username
+  linkedin: felippecaso
   email: felippe.felisola@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
