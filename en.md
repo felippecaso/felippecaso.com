@@ -1,4 +1,4 @@
 ---
 layout: home
-lang: pt-BR
+lang: en-US
 ---

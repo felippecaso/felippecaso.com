@@ -1,10 +1,10 @@
 ---
-title: Hi
-permalink: /about/
+title: Olá
+permalink: /sobre/
 layout: page
 excerpt: I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
 comments: false
-lang: en-US
+lang: pt-BR
 ---
 
 I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
