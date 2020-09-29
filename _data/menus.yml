@@ -1,5 +1,5 @@
 languages:
-  - language: pt-BR
+  - language: pt
     links:
       - title: início
         url: /
@@ -10,7 +10,7 @@ languages:
       - title: sobre
         url: /sobre/
         external: false
-  - language: en-US
+  - language: en
     links:
       - title: home
         url: /en/

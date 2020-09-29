@@ -4,7 +4,7 @@ permalink: /sobre/
 layout: page
 excerpt: I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
 comments: false
-lang: pt-BR
+lang: pt
 ---
 
 I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.

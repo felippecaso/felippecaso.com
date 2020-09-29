@@ -4,7 +4,7 @@ home: true
 ---
 
 {% capture site_lang %}
-  {{ site.lang | default: "pt-BR" }}
+  {{ site.lang | default: "pt" }}
 {% endcapture %}
 {% assign posts=site.posts | where: "lang", page.lang %}
 <h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
