@@ -13,14 +13,10 @@
   }
 
   var [lang, locale] = (((navigator.userLanguage || navigator.language).replace('-', '_')).toLowerCase()).split('_');
-  var supported_languages = null;
+  var supported_languages = ["pt", "en"];
   var current_lang = '';
 
   var suitable_lang = getBestSuitableSupportedLang(lang, locale, supported_languages)
-
-  if (current_lang !== suitable_lang) {
-    window.location = '/' + suitable_lang + '/';
-  }
 
   var hostname = window.location.hostname;
   var referrer = document.referrer;
