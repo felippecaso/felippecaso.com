@@ -4,8 +4,8 @@ languages:
       - title: início
         url: /
         external: false
-      - title: arquivos
-        url: /arquivos/
+      - title: arquivo
+        url: /arquivo/
         external: false
       - title: sobre
         url: /sobre/

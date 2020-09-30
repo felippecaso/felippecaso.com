@@ -13,8 +13,13 @@ languages: [pt, en]
 # Profile settings
 author:
   name: Felippe F. Caso # author name
-  bio: >- # tell to the world
-    I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
+  bios: # tell to the world
+    - language: en
+      bio: >-
+        I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
+    - language: pt
+      bio: >-
+        Sou facilitador, músico e analista de dados com interesse em tecnologia, programação, produtividade e autoconhecimento.
   username: felippecaso # general username
   github: felippecaso # github username
   linkedin: felippecaso

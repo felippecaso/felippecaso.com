@@ -7,7 +7,7 @@ home: true
   {{ site.lang | default: "pt" }}
 {% endcapture %}
 {% assign posts=site.posts | where: "lang", page.lang %}
-<h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
+<h3 class="posts-item-note" aria-label="Recent Posts">Posts</h3>
 {%- for post in posts limit: site.number_of_posts -%}
   {% capture lang %}
     {%- if post.lang != site_lang -%}

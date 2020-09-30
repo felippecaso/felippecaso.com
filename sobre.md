@@ -2,16 +2,16 @@
 title: Olá
 permalink: /sobre/
 layout: page
-excerpt: I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
+excerpt: Sou facilitador, músico e analista de dados com interesse em tecnologia, programação, produtividade e autoconhecimento.
 comments: false
 lang: pt
 ---
 
-I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
+Sou facilitador, músico e analista de dados com interesse em tecnologia, programação, produtividade e autoconhecimento.
 
-Currently I work as Business Analytics Lead at [Loft](https://www.loft.com.br), after being part of technology and innovation teams in other startups.
+Atualmente atuo como Business Analytics Lead na [Loft](https://www.loft.com.br), após fazer parte de times de tecnologia e inovação em outras startups.
 
-**find me:**
+**me encontre:**
 
 - [{{ site.author.email }}](mailto:{{ site.author.email }})
 - [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
