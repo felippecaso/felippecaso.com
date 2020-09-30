@@ -1,7 +1,16 @@
 <footer class="footer">
-  <a class="footer_item" href="https://www.linkedin.com/in/{{ site.author.linkedin }}/?locale=en_US">resume</a>
+  <a class="footer_item" href="https://www.linkedin.com/in/{{ site.author.linkedin }}">cv</a>
   <a class="footer_item" href="/feed.xml">rss</a>
   <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
+  <span class="footer_copyright">
+  {% for lang in site.languages %}
+    {% if forloop.index0 == 0 %}
+      <a href="/" class="footer__link">{{ lang }}</a>
+    {% else %}
+      | <a href="/{{ lang }}" class="footer__link">{{ lang }}</a>
+    {% endif %}
+  {% endfor %}
+  </span>
   <small class="footer_copyright">
     <!-- Klisé Theme: https://github.com/piharpi/jekyll-klise -->
     <a
@@ -17,6 +26,7 @@
   </small>
 </footer>
 <script src="/assets/js/main.js" defer="defer"></script>
+<script src="/assets/js/langswitcher.js" defer="defer"></script>
 
 {%- if page.google_analytics -%}
   <script src="/assets/js/galite.js"></script>

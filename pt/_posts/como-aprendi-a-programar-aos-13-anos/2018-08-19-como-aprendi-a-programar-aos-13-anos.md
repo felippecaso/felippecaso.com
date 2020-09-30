@@ -6,6 +6,7 @@ tags: []
 description:
 slug: /como-aprendi-a-programar-aos-13-anos
 image: "/como-aprendi-a-programar-aos-13-anos/dir.gif"
+lang: pt
 ---
 
 > Artigo publicado originalmente no [Medium](https://medium.com/@felippecaso/como-aprendi-a-programar-aos-13-anos-29b2199d9f26).
