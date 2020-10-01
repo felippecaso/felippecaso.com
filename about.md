@@ -14,5 +14,5 @@ Currently I work as Business Analytics Lead at [Loft](https://www.loft.com.br), 
 **find me:**
 
 - [{{ site.author.email }}](mailto:{{ site.author.email }})
-- [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
 - [linkedin.com/in/{{ site.author.linkedin }}](https://www.linkedin.com/in/{{ site.author.linkedin }}/?locale=en_US)
+- [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
