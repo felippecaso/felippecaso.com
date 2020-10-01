@@ -30,7 +30,7 @@ author:
 url: "https://felippecaso.com" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: UA-120362183-2
 fb_appid:
 
 # Collection setting
