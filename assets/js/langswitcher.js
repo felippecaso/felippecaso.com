@@ -24,7 +24,11 @@
   var landingPage = !referrer || referrer.indexOf(hostname) == -1;
 
   if (landingPage && (current_lang !== suitable_lang)) {
-    window.location = '/' + suitable_lang + '/';
+    if (suitable_lang == "pt") {
+      window.location = '/';
+    } else {
+      window.location = '/' + suitable_lang + '/';
+    }
   }
 
 })();
