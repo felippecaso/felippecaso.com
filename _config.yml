@@ -1,7 +1,7 @@
 # Site settings
 title: Felippe F. Caso # site title
 description: >- # site description
-  I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
+  I’m a facilitator, musician, analyst, and engineer. I am passionate about technology and self-knowledge and strive to combine the two to improve myself every day.
 timezone: America/Sao_Paulo # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 mode: light # default theme "dark" | "light"
@@ -16,7 +16,7 @@ author:
   bios: # tell to the world
     - language: en
       bio: >-
-        I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
+        I’m a facilitator, musician, analyst, and engineer. I am passionate about technology and self-knowledge and strive to combine the two to improve myself every day.
     - language: pt
       bio: >-
         Sou facilitador, músico e analista de dados com interesse em tecnologia, programação, produtividade e autoconhecimento.
