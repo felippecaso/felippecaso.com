@@ -7,11 +7,11 @@ comments: false
 lang: en
 ---
 
-I'm a facilitator, musician, analyst and engineer. I prefer dogs to cats, and on the weekends I read about mixology. I'm passionate about technology and self-knowledge, and I like to combine the two to be a bit better every day.
+I’m a facilitator, musician, analyst, and engineer. I prefer dogs over cats, and on weekends I enjoy reading about mixology. I am passionate about technology and self-knowledge and strive to combine the two to improve myself every day.
 
-I help businesses and people to make sense of data, currently leading part of the Analytics team at [Loft](https://www.loft.com.br). I'm a teacher and mentor in data, programming and career development since 2016.
+I help businesses and individuals make sense of data. Currently, I lead part of the Analytics team at [Loft](https://www.loft.com.br), and since 2016 I have been teaching and mentoring in data, programming, and career development.
 
-I graduated in Electrical Engineering at the Federal University of São Carlos, with an exchange program to Queen Mary, University of London in Audio Systems Engineering, combining and old artistic side to the vocation to the exact sciences. I was part of teams in data and technology in startups since my second undergraduate year.
+I graduated from the Federal University of São Carlos with a degree in Electrical Engineering, and I participated in an exchange program at Queen Mary University of London, where I studied Audio Systems Engineering - it allowed me to combine my artistic side with a passion for exact sciences. Since my second year of undergraduate studies, I have worked on data and technology teams in startups.
 
 **find me:**
 
