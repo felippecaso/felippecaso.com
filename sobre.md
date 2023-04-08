@@ -7,11 +7,11 @@ comments: false
 lang: pt
 ---
 
-Sou facilitador, músico, analista e engenheiro. Prefiro cachorros a gatos, e nos finais de semana leio sobre mixologia. Tenho paixão por tecnologia e autoconhecimento, e gosto de combinar as duas coisas para ser um pouco melhor a cada dia.
+Sou facilitador, músico, analista e engenheiro. Prefiro cachorros a gatos, e nos finais de semana leio sobre mixologia. Tenho paixão por tecnologia e autoconhecimento e me esforço para combinar as duas coisas para ser um pouco melhor a cada dia.
 
-Ajudo negócios e pessoas a gerarem conhecimento a partir de dados, atualmente liderando parte do time de Analytics na [Loft](https://www.loft.com.br). Sou professor e mentor de dados, programação e desenvolvimento de carreira desde 2016.
+Ajudo negócios e pessoas a gerarem conhecimento a partir de dados, atualmente liderando parte da equipe de Analytics na [Loft](https://www.loft.com.br). Sou professor e mentor de dados, programação e desenvolvimento de carreira desde 2016.
 
-Me formei em Engenharia Elétrica pela UFSCar e fiz intercâmbio em Engenharia de Áudio na Queen Mary, University of London - combinando o antigo lado artístico com a vocação para as ciências exatas. Fiz parte de equipes de dados e tecnologia em startups desde o segundo ano da graduação.
+Sou formado em Engenharia Elétrica pela UFSCar e participei de um programa de intercâmbio na Queen Mary, University of London, onde estudei Engenharia de Sistemas de Áudio - combinando meu lado artístico com a paixão pelas ciências exatas. Desde o meu segundo ano de graduação, trabalhei em equipes de dados e tecnologia em startups.
 
 **me encontre:**
 
