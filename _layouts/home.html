@@ -3,23 +3,21 @@ layout: default
 home: true
 ---
 
-{% capture site_lang %}
-  {{ site.lang | default: "en" }}
-{% endcapture %}
-{% assign posts=site.posts | where: "lang", page.lang %}
+{% assign posts = site.posts | where: "lang", page.lang %}
+{% if posts.size == 0 %}
+  {% assign posts = site.posts %}
+{% endif %}
+{% if posts.size > 0 %}
 <h3 class="posts-item-note" aria-label="Recent Posts">Posts</h3>
 {%- for post in posts limit: site.number_of_posts -%}
-  {% capture lang %}
-    {%- if post.lang != site_lang -%}
-      {{ post.lang }}
-    {%- else -%}
-      {{ site_lang }}
-    {%- endif -%}
-  {% endcapture %}
   <article class="post-item">
     <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
     <h4 class="post-item-title">
       <a href="{{ post.url }}">{{ post.title | escape }}</a>
+      {% if post.lang != page.lang %}
+        <span class="post-item-lang">{{ post.lang }}</span>
+      {% endif %}
     </h4>
   </article>
 {%- endfor -%}
+{% endif %}
