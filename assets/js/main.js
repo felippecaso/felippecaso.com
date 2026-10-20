@@ -3,21 +3,17 @@
   const body = document.body;
   const lamp = document.getElementById("mode");
 
-  const toggleTheme = (state) => {
-    if (state === "dark") {
+  const toggleTheme = () => {
+    if (body.getAttribute("data-theme") === "dark") {
       localStorage.setItem("theme", "light");
       body.removeAttribute("data-theme");
-    } else if (state === "light") {
+    } else {
       localStorage.setItem("theme", "dark");
       body.setAttribute("data-theme", "dark");
-    } else {
-      initTheme(state);
     }
   };
 
-  lamp.addEventListener("click", () =>
-    toggleTheme(localStorage.getItem("theme"))
-  );
+  lamp.addEventListener("click", toggleTheme);
 
   // Blur the content when the menu is open
   const cbox = document.getElementById("menu-trigger");

@@ -2,16 +2,19 @@
 title: Hi
 permalink: /about/
 layout: page
-excerpt: I'm a facilitator, musician and data analyst with special interest in technology, programming, productivity and self-knowledge.
+excerpt: "Hi, I'm Felippe: a data leader, mentor and musician, writing code since 2008."
 comments: false
 lang: en
+translation: /sobre/
 ---
 
-I’m a facilitator, musician, analyst, and engineer. I prefer dogs over cats, and on weekends I enjoy reading about mixology. I'm passionate about technology and self-knowledge and strive to combine them to improve myself day after day.
+Hi, I'm Felippe: a data leader, mentor and musician, writing code since 2008.
 
-I help businesses and individuals make sense of data. Currently, I work as a Lead Analytics Engineer at [Nubank](https://nubank.com.br), after spending the past four years leading Analytics teams at [Loft](https://loft.com.br). Since 2016 I have been teaching and mentoring in data, programming, and career development, in partnership with organizations such as [Fundação Estudar](https://estudar.org.br/).
+I lead teams that help businesses make sense of data. I'm currently a Lead Engineer in Analytics at [Monzo](https://monzo.com) in London, where I build AI-driven solutions that boost internal productivity. Before Monzo, I was a Lead Analytics Engineer at [Nubank](https://nubank.com.br), after four years leading analytics teams at [Loft](https://loft.com.br).
 
-I graduated from the Federal University of São Carlos with a degree in Electrical Engineering, and I participated in an exchange program at Queen Mary University of London, where I studied Audio Systems Engineering - it allowed me to combine my artistic side with a passion for exact sciences. Since my second year of undergraduate studies, I've been a part of data and technology teams in startups.
+Since 2016 I've been teaching and mentoring in data, programming and career development, including with [Fundação Estudar](https://estudar.org.br/).
+
+I studied Electrical Engineering at the Federal University of São Carlos (UFSCar) and Audio Systems Engineering on an exchange at Queen Mary University of London, which let me bring music and engineering together.
 
 **find me:**
 

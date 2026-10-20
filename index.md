@@ -1,4 +1,5 @@
 ---
 layout: home
-lang: pt
+lang: en
+translation: /pt/
 ---
