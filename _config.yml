@@ -1,14 +1,14 @@
 # Site settings
 title: Felippe F. Caso # site title
-description: >- # site description
-  I'm a facilitator, musician, analyst, and engineer. I am passionate about technology and self-knowledge and strive to combine the two to improve myself every day.
-timezone: America/Sao_Paulo # set your timezone
+description: >-
+  Felippe is a data leader, mentor, and musician with 18 years of coding experience. He leads teams to make sense of data, currently as a Lead Engineer in Analytics for Monzo Bank in London, where he implements AI-driven solutions to boost internal productivity. Alongside his career, he has been an active teacher and mentor in data, programming and career development since 2016.
+timezone: Europe/London # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 mode: light # default theme "dark" | "light"
 
 # Multilingual settings
-lang: pt # default lang
-languages: [pt, en]
+lang: en # default lang
+languages: [en, pt]
 
 # Profile settings
 author:
@@ -16,10 +16,10 @@ author:
   bios: # tell to the world
     - language: en
       bio: >-
-        I'm a facilitator, musician, analyst, and engineer. I am passionate about technology and self-knowledge and strive to combine the two to improve myself every day.
+        Felippe is a data leader, mentor, and musician with 18 years of coding experience. He leads teams to make sense of data, currently as a Lead Engineer in Analytics for Monzo Bank in London, where he implements AI-driven solutions to boost internal productivity. Alongside his career, he has been an active teacher and mentor in data, programming and career development since 2016.
     - language: pt
       bio: >-
-        Sou facilitador, músico e analista de dados com interesse em tecnologia, programação, produtividade e autoconhecimento.
+        Felippe é líder de dados, mentor e músico, com 18 anos de experiência em programação. Lidera times que ajudam empresas a entender seus dados, hoje como Lead Engineer in Analytics no Monzo Bank, em Londres, onde implementa soluções com IA para aumentar a produtividade interna. Paralelamente, é professor e mentor em dados, programação e desenvolvimento de carreira desde 2016.
   username: felippecaso # general username
   github: felippecaso # github username
   linkedin: felippecaso
@@ -27,11 +27,10 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://felippecaso.com" #
+url: "https://www.felippecaso.com" #
 baseurl:
 permalink: /:title/
 google_analytics: G-5EMSZ3STG5
-fb_appid:
 
 # Collection setting
 collections:

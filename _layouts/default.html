@@ -2,26 +2,19 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "pt" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 {% include header.html %}
 
-<body data-theme="{{ site.mode }}" class="notransition">
+<body class="notransition">
 
   <script>
     const body = document.body;
-    const data = body.getAttribute("data-theme");
+    const theme = localStorage.getItem("theme");
+    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
 
-    const initTheme = (state) => {
-      if (state === "dark") {
-        body.setAttribute("data-theme", "dark");
-      } else if (state === "light") {
-        body.removeAttribute("data-theme");
-      } else {
-        localStorage.setItem("theme", data);
-      }
-    };
-
-    initTheme(localStorage.getItem("theme"));
+    if (theme === "dark" || (!theme && prefersDark)) {
+      body.setAttribute("data-theme", "dark");
+    }
 
     setTimeout(() => body.classList.remove("notransition"), 75);
   </script>

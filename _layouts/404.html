@@ -3,26 +3,19 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "pt" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
 {% include header.html %}
-<body data-theme="{{ site.mode }}" class="notransition">
+<body class="notransition">
 
   <script>
     const body = document.body;
-    const data = body.getAttribute("data-theme");
+    const theme = localStorage.getItem("theme");
+    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
 
-    const initTheme = (state) => {
-      if (state === "dark") {
-        body.setAttribute("data-theme", "dark");
-      } else if (state === "light") {
-        body.removeAttribute("data-theme");
-      } else {
-        localStorage.setItem("theme", data);
-      }
-    };
-
-    initTheme(localStorage.getItem("theme"));
+    if (theme === "dark" || (!theme && prefersDark)) {
+      body.setAttribute("data-theme", "dark");
+    }
 
     setTimeout(() => body.classList.remove("notransition"), 75);
   </script>
@@ -33,8 +26,8 @@ layout: compress
       <div class="not-found">
         <div class="container">
           <div class="title">404</div>
-          <p class="phrase">😕 Hmm... Acho que você se perdeu.</p>
-          <a class="solution" href="{{ site.url }}">voltar para o início</a>
+          <p class="phrase">😕 Hmm... Looks like you got lost.</p>
+          <a class="solution" href="{{ site.url }}">back to home</a>
         </div>
       </div>
     </main>

@@ -1,25 +1,25 @@
 languages:
-  - language: pt
-    links:
-      - title: início
-        url: /
-        external: false
-      - title: arquivo
-        url: /arquivo/
-        external: false
-      - title: sobre
-        url: /sobre/
-        external: false
   - language: en
     links:
       - title: home
-        url: /en/
+        url: /
         external: false
       - title: archive
         url: /archive/
         external: false
       - title: about
         url: /about/
+        external: false
+  - language: pt
+    links:
+      - title: início
+        url: /pt/
+        external: false
+      - title: arquivo
+        url: /arquivo/
+        external: false
+      - title: sobre
+        url: /sobre/
         external: false
 
 # Example:
