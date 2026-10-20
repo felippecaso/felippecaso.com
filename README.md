@@ -1,13 +1,18 @@
 # felippecaso.com
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4c147ae7-abff-492a-a84e-9e2457402dfd/deploy-status)](https://app.netlify.com/sites/felippecaso/deploys)
+Hosted on Cloudflare Workers with static assets from `_site`. Workers Builds deploys on pushes to `master`:
 
-This repository holds the source files for my personal website.
+- Build command: `bundle exec jekyll build`
+- Deploy command: `npx wrangler deploy`
 
-## Build instructions
+## Local preview
 
 ```
-gem install bundler
-bundle install
 bundle exec jekyll serve
+```
+
+Or build and preview the Worker locally:
+
+```
+bundle exec jekyll build && npx wrangler dev
 ```

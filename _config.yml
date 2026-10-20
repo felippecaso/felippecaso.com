@@ -79,6 +79,7 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+  - wrangler.jsonc
   - LICENSE
   - CHANGELOG.md
   - README.md
