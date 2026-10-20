@@ -3,6 +3,7 @@
   "name": "felippecaso",
   "compatibility_date": "2026-10-20",
   "workers_dev": true,
+  "previews": {},
   "routes": [
     { "pattern": "www.felippecaso.com", "custom_domain": true }
   ],
