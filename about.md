@@ -16,10 +16,19 @@ My journey was unusual: I graduated in Electrical Engineering from one of the to
 
 #### Speaking
 
-At AI Engineer New York 2026 I gave a workshop and a talk with Francesco Galletta:
+**2026**
 
-- **Workshop** (Mon 12 Oct 2026): [Stop Chatting With Spreadsheets: Build a Financial Analyst Harness That You Can Trust](https://www.youtube.com/watch?v=e9-br9hveRI)
-- **Talk** (Tue 13 Oct 2026): [A Bank Built Its Own Coding Agent. It Took Off](https://www.youtube.com/watch?v=adfw3xJBx1o), about Agent Chip, Monzo's in-house coding agent
+- AI Engineer New York, workshop: [Stop Chatting With Spreadsheets: Build a Financial Analyst Harness That You Can Trust](https://www.youtube.com/watch?v=e9-br9hveRI)
+- AI Engineer New York, talk: [A Bank Built Its Own Coding Agent. It Took Off](https://www.youtube.com/watch?v=adfw3xJBx1o), about Agent Chip, Monzo's in-house coding agent
+
+**2022**
+
+- Coalesce (dbt Labs): [How insensitive: Increasing analytics capacity through empathy](https://www.youtube.com/watch?v=hIt_FtgxzDY)
+
+#### Hackathons
+
+- Londonmaxxing
+- MLH NYC
 
 **find me:**
 

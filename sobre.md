@@ -16,10 +16,19 @@ Minha trajetória foi incomum: me formei em Engenharia Elétrica pela Universida
 
 #### Palestras
 
-No AI Engineer New York 2026 apresentei um workshop e uma palestra com Francesco Galletta:
+**2026**
 
-- **Workshop** (seg, 12 out 2026): [Stop Chatting With Spreadsheets: Build a Financial Analyst Harness That You Can Trust](https://www.youtube.com/watch?v=e9-br9hveRI)
-- **Palestra** (ter, 13 out 2026): [A Bank Built Its Own Coding Agent. It Took Off](https://www.youtube.com/watch?v=adfw3xJBx1o), sobre o Agent Chip, o agente de código feito internamente na Monzo
+- AI Engineer New York, workshop: [Stop Chatting With Spreadsheets: Build a Financial Analyst Harness That You Can Trust](https://www.youtube.com/watch?v=e9-br9hveRI)
+- AI Engineer New York, palestra: [A Bank Built Its Own Coding Agent. It Took Off](https://www.youtube.com/watch?v=adfw3xJBx1o), sobre o Agent Chip, o agente de código feito internamente na Monzo
+
+**2022**
+
+- Coalesce (dbt Labs): [How insensitive: Increasing analytics capacity through empathy](https://www.youtube.com/watch?v=hIt_FtgxzDY)
+
+#### Hackathons
+
+- Londonmaxxing
+- MLH NYC
 
 **me encontre:**
 
