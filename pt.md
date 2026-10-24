@@ -3,4 +3,14 @@ layout: home
 permalink: /pt/
 lang: pt
 translation: /
+role: Lead Engineer em Analytics, Monzo
+links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/felippecaso
+  - title: GitHub
+    url: https://github.com/felippecaso
+  - title: Sobre
+    url: /sobre/
+  - title: Palestras
+    url: /sobre/#palestras
 ---
