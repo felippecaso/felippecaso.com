@@ -2,22 +2,26 @@
 title: Olá
 permalink: /sobre/
 layout: page
-excerpt: "Oi, eu sou o Felippe: líder de dados, mentor e músico, programando desde 2008."
+excerpt: "Sou Lead Engineer na Monzo, trabalhando com IA aplicada no time de Plataforma."
 comments: false
 lang: pt
 translation: /about/
 ---
 
-Oi, eu sou o Felippe: líder de dados, mentor e músico, programando desde 2008.
+Sou Lead Engineer na [Monzo](https://monzo.com), trabalhando com IA aplicada no time de Plataforma, construindo produtos que tornam nosso time de dados melhor, de assistentes de código com IA aos agentes que rodamos sobre os nossos dados.
 
-Lidero times que ajudam empresas a entender seus dados. Hoje sou Lead Engineer em Analytics no [Monzo](https://monzo.com), em Londres, onde desenvolvo soluções com IA para aumentar a produtividade interna. Antes do Monzo, fui Lead Analytics Engineer no [Nubank](https://nubank.com.br), depois de quatro anos liderando times de Analytics na [Loft](https://www.loft.com.br).
+Programo desde 2008 e trabalho em times de dados desde o segundo ano da faculdade, principalmente em startups e scale-ups antes da Monzo. Desde 2016 também ensino e mentoro pessoas em dados, programação e desenvolvimento de carreira, incluindo palestras em conferências (mais recentemente no AI Engineer New York), e tudo isso está entre as minhas partes favoritas do trabalho.
 
-Sou professor e mentor de dados, programação e desenvolvimento de carreira desde 2016, inclusive com a [Fundação Estudar](https://estudar.org.br/).
+Minha trajetória foi incomum: me formei em Engenharia Elétrica pela Universidade Federal de São Carlos, com um ano de intercâmbio na Queen Mary University of London estudando Engenharia de Sistemas de Áudio. Foi lá que meu lado artístico (sou músico!) encontrou as ciências exatas, e essa mistura ainda molda como eu trabalho, sendo rigoroso com os dados e humano com as pessoas que os usam.
 
-Sou formado em Engenharia Elétrica pela UFSCar e fiz intercâmbio na Queen Mary University of London, onde estudei Engenharia de Sistemas de Áudio, unindo música e engenharia.
+#### Palestras
+
+No AI Engineer New York 2026 apresentei um workshop e uma palestra com Francesco Galletta:
+
+- **Workshop** (seg, 12 out 2026): [Stop Chatting With Spreadsheets: Build a Financial Analyst Harness That You Can Trust](https://www.youtube.com/watch?v=e9-br9hveRI)
+- **Palestra** (ter, 13 out 2026): [A Bank Built Its Own Coding Agent. It Took Off](https://www.youtube.com/watch?v=adfw3xJBx1o), sobre o Agent Chip, o agente de código feito internamente na Monzo
 
 **me encontre:**
 
-- [{{ site.author.email }}](mailto:{{ site.author.email }})
 - [linkedin.com/in/{{ site.author.linkedin }}](https://www.linkedin.com/in/{{ site.author.linkedin }}/)
 - [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
